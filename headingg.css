@@ -1,0 +1,38 @@
+*{
+    padding-top: 45px;
+    padding-bottom: 45px;
+    margin-bottom: 0;
+}
+body {
+    background-color: #333; /* Dark background */
+    font-family: Arial, sans-serif; /* Sans-serif font */
+    color: white; /* White text */
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    height: 100vh;
+}
+.logo{
+    display:flex;
+    align-items: center;
+    margin-bottom: 0;
+}
+.rhombus {
+    width: 30px; /* Width of rhombus */
+    height: 30px; /* Height of rhombus */
+    background-color:transparent; /* White rhombus */
+    transform:rotate(9deg) skew(1deg);
+    margin-right: 10px; /* Space between rhombus and text */
+    border: 5px solid white;
+}
+.text {
+    font-size: 36px; /* Size of 'Timeless' text */
+    margin-left:25px;
+}
+
+
+    
+
+
+
+
